@@ -18,7 +18,12 @@ Different parameters (size of array to be sorted) can be configured by editing t
 * ruby: Using ruby's dynamic type system.
 
 ### Results on my computer:
-* C++  :    200914µs
-* C    :    426275µs
-* Java :    738789µs
-* ruby :  12875743µs
+|Language|Time|
+|--------|---:|
+|C++|200914µs|
+|C|426275µs|
+|Java|738789µs|
+|ruby|12875743µs|
+
+### License:
+BSD. See LICENSE file.
